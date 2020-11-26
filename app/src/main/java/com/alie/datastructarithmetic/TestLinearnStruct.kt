@@ -2,6 +2,7 @@ package com.alie.datastructarithmetic
 
 import com.alie.datastructarithmetic.bean.Mahjong
 import java.util.*
+import kotlin.collections.ArrayList
 
 /**
  * 线性结构的测试类
